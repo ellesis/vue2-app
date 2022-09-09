@@ -11,6 +11,11 @@ npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/vue-fontawesome@latest-2
 ```
 
+- install and use
+  https://fontawesome.com/docs/web/use-with/vue/add-icons
+- free icons
+  https://fontawesome.com/v6/search?o=r&m=free
+
 # Project start
 
 ## Project setup
