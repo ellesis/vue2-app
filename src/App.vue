@@ -2,10 +2,7 @@
   <div id="app">
     <div>
       <h1>vue2-app</h1>
-      <img
-        alt="Vue logo"
-        src="./assets/logo.png"
-      />
+      <img alt="Vue logo" src="./assets/logo.png" />
     </div>
     <hr />
 
@@ -17,6 +14,12 @@
     <hr />
 
     <!-- Font awesome -->
+    <div>
+      <h1>Font awesome - fontawesome cdn</h1>
+      <h2>
+        <i class="fa fa-sun-o" aria-hidden="true"></i>
+      </h2>
+    </div>
     <div>
       <h1>Font awesome - npm i fontawesome</h1>
       <h2>
